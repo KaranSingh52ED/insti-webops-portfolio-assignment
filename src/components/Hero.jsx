@@ -26,7 +26,7 @@ const Hero = () => {
                 </a>
               </div>
             </div>
-            <img src="assets/profile.png" alt="profile" />
+            <img src="assets/profile.jpg" alt="profile" />
           </div>
 
           <TechStack />
