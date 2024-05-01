@@ -287,7 +287,7 @@ body {
 .project-reverse,
 .project-img {
   border-radius: 25px;
-  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: var(--red) 0 0 10px 5px;
 }
 
 .project-img {
